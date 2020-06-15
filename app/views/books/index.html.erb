@@ -1,0 +1,51 @@
+<h1>All books</h1>
+
+<h2>Sociology</h2>
+<% @books.where(category: 'sociology').each do |book| %>
+  <h2><%= book.title %></h2>
+  <p><%= book.description %></p>
+  <p><%= book.link %></p>
+  <%= link_to 'more details', book_path(book) %>
+<% end %>
+
+<h2>History</h2>
+<% @books.where(category: 'history').each do |book| %>
+  <h2><%= book.title %></h2>
+  <p><%= book.description %></p>
+  <p><%= book.link %></p>
+  <%= link_to 'more details', book_path(book) %>
+<% end %>
+
+<h2>Economy</h2>
+<% @books.where(category: 'economy').each do |book| %>
+  <h2><%= book.title %></h2>
+  <p><%= book.description %></p>
+  <p><%= book.link %></p>
+  <%= link_to 'more details', book_path(book) %>
+<% end %>
+
+<h2>Business</h2>
+<% @books.where(category: 'business').each do |book| %>
+  <h2><%= book.title %></h2>
+  <p><%= book.description %></p>
+  <p><%= book.link %></p>
+  <%= link_to 'more details', book_path(book) %>
+<% end %>
+
+<h2>Investing</h2>
+<% @books.where(category: 'investing').each do |book| %>
+  <h2><%= book.title %></h2>
+  <p><%= book.description %></p>
+  <p><%= book.link %></p>
+  <%= link_to 'more details', book_path(book) %>
+<% end %>
+
+<h2>Trading</h2>
+<% @books.where(category: 'trading').each do |book| %>
+  <h2><%= book.title %></h2>
+  <p><%= book.description %></p>
+  <p><%= book.link %></p>
+  <%= link_to 'more details', book_path(book) %>
+<% end %>
+
+
