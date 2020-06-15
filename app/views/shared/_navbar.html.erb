@@ -1,0 +1,22 @@
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <%= link_to 'Home', root_path %>
+  <%= link_to 'All books', books_path %>
+  <%= link_to 'Sociology', sociology_books_path %>
+  <%= link_to 'History', history_books_path %>
+  <%= link_to 'Economy', economy_books_path %>
+  <%= link_to 'Business', business_books_path %>
+  <%= link_to 'Investing', investing_books_path %>
+  <%= link_to 'Trading', trading_books_path %>
+</div>
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
