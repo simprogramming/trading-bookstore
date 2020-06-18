@@ -1,51 +1,62 @@
-<h1>All books</h1>
+<div class="banner">
+  <div class="banner-content">
+    <h2>The Complete Library For Trading & Wealth Management</h2>
+  </div>
+</div>
 
-<h2>Sociology</h2>
-<% @books.where(category: 'sociology').each do |book| %>
-  <h2><%= book.title %></h2>
-  <p><%= book.description %></p>
-  <p><%= book.link %></p>
-  <%= link_to 'more details', book_path(book) %>
-<% end %>
+<h4 class="books-category"><strong>Sociology</strong></h4>
+<div class="scrollmenu">
+  <div class="book-card">
+    <% @books.where(category: 'sociology').each do |book| %>
+      <%=  link_to (image_tag book.photo)   , book_path(book) %>
+    <% end %>
+  </div>
+</div>
 
-<h2>History</h2>
-<% @books.where(category: 'history').each do |book| %>
-  <h2><%= book.title %></h2>
-  <p><%= book.description %></p>
-  <p><%= book.link %></p>
-  <%= link_to 'more details', book_path(book) %>
-<% end %>
+<h4 class="books-category"><strong>History</strong></h4>
+<div class="scrollmenu">
+  <div class="book-card">
+    <% @books.where(category: 'history').each do |book| %>
+      <%=  link_to (image_tag book.photo)   , book_path(book) %>
+    <% end %>
+  </div>
+</div>
 
-<h2>Economy</h2>
-<% @books.where(category: 'economy').each do |book| %>
-  <h2><%= book.title %></h2>
-  <p><%= book.description %></p>
-  <p><%= book.link %></p>
-  <%= link_to 'more details', book_path(book) %>
-<% end %>
+<h4 class="books-category"><strong>Economy</strong></h4>
+<div class="scrollmenu">
+  <div class="book-card">
+    <% @books.where(category: 'economy').each do |book| %>
+      <%=  link_to (image_tag book.photo)   , book_path(book) %>
+    <% end %>
+  </div>
+</div>
 
-<h2>Business</h2>
-<% @books.where(category: 'business').each do |book| %>
-  <h2><%= book.title %></h2>
-  <p><%= book.description %></p>
-  <p><%= book.link %></p>
-  <%= link_to 'more details', book_path(book) %>
-<% end %>
+<h4 class="books-category"><strong>Business</strong></h4>
+<div class="scrollmenu">
+  <div class="book-card">
+    <% @books.where(category: 'business').each do |book| %>
+      <%=  link_to (image_tag book.photo)   , book_path(book) %>
+    <% end %>
+  </div>
+</div>
 
-<h2>Investing</h2>
-<% @books.where(category: 'investing').each do |book| %>
-  <h2><%= book.title %></h2>
-  <p><%= book.description %></p>
-  <p><%= book.link %></p>
-  <%= link_to 'more details', book_path(book) %>
-<% end %>
+<h4 class="books-category"><strong>Investing</strong></h4>
+<div class="scrollmenu">
+  <div class="book-card">
+    <% @books.where(category: 'investing').each do |book| %>
+      <%=  link_to (image_tag book.photo)   , book_path(book) %>
+    <% end %>
+  </div>
+</div>
 
-<h2>Trading</h2>
-<% @books.where(category: 'trading').each do |book| %>
-  <h2><%= book.title %></h2>
-  <p><%= book.description %></p>
-  <p><%= book.link %></p>
-  <%= link_to 'more details', book_path(book) %>
-<% end %>
+<h4 class="books-category"><strong>Trading</strong></h4>
+<div class="scrollmenu">
+  <div class="book-card">
+    <% @books.where(category: 'trading').each do |book| %>
+      <%=  link_to (image_tag book.photo)   , book_path(book) %>
+    <% end %>
+  </div>
+</div>
+<div class="white-bar"></div>
 
 

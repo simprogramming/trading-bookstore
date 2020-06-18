@@ -1,0 +1,31 @@
+.scrollmenu {
+  overflow: auto;
+  white-space: nowrap;
+}
+
+.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+  background-color:#F5F5F5;
+}
+
+.scrollmenu img {
+  height: 225px;
+  border-radius: 2px;
+}
+
+.scrollmenu a:hover {
+  background-color: #777;
+}
+
+.books-category {
+  padding-left: 30px;
+  padding-top: 15px;
+}
+
+.white-bar {
+  height:40px;
+}
