@@ -600,7 +600,7 @@ books_attributes = [
     description:  "How do the world's most successful traders amass tens, hundreds of millions of dollars a year? Are they masters of an occult knowledge, lucky winners in a random market lottery, natural-born virtuosi—Mozarts of the markets? In search of an answer, bestselling author Jack D. Schwager interviewed dozens of top traders across most financial markets. While their responses differed in the details, all of them could be boiled down to the same essential formula: solid methodology + proper mental attitude = trading success. In Market Wizards Schwager lets you hear, in their own words, what those super-traders had to say about their unprecedented successes, and he distils their responses down into a set of guiding principles you can use to become a trading star in your own right. ",
     category:     'trading',
     link:         'http://www.amazon.ca/dp/1118273052/ref=nosim?tag=leivaprogramm-20',
-    photo:        "Market Wizards.jpg"
+    photo:        "Market Wizard.jpg"
   },
   {
     title:        'Reminiscences of a Stock Operator',
