@@ -1,10 +1,11 @@
+<div class="container ads-bar text-center"><strong>Free one day shipping with Amazon</strong></div>
 <div class="container m-5">
   <%= link_to 'back to list', books_path %>
   <div class="d-flex">
     <div class="book-image-show"><%= image_tag @book.photo %></div>
     <div class="container book-description">
       <h1><%= @book.title %></h1>
-      <p><%= link_to 'buy on amazon.ca', @book.link %></p>
+      <p><%= link_to 'get it now', @book.link %></p>
       <hr>
       <h4><strong>Summary</strong></h4>
       <p><%= @book.description %></p>

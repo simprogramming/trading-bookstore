@@ -64,6 +64,62 @@ books_attributes = [
     link:         'https://www.amazon.ca/Economic-Sociology-Capitalism-Victor-Nee/dp/0691119589/ref=sr_1_1?dchild=1&keywords=The+Economic+Sociology+of+Capitalism&qid=1592511394&s=digital-skills&sr=1-1',
     photo:        "The Economic Sociology of Capitalism.jpg"
   },
+  {
+    title:        'Forging Industrial Policy: The United States, Britain, and France in the Railway Age Paperback',
+    description:  "The United States, France, and Britain use markedly different kinds of industrial policies to foster economic growth. To understand the origins of these different policies, this book examines the evolution of public policies governing one of the first modern industries, the railroads. The author challenges conventional thinking in economics, political science, and sociology by arguing that cultural meaning plays an important role in the development of purportedly rational policies designed to promote industrial growth. This book has implications for the study of rational institutions of all sorts, including science, management, and economics, as well as for the study of culture.",
+    category:     'sociology',
+    link:         'https://www.amazon.ca/dp/052162990X/ref=as_at?linkCode=gs2&tag=fivebooks-20',
+    photo:        "Forging Industrial Policy.jpg"
+  },
+  {
+    title:        'The Social Meaning of Money',
+    description:  "A dollar is a dollar--or so most of us believe. Indeed, it is part of the ideology of our time that money is a single, impersonal instrument that impoverishes social life by reducing social relations to cold, hard cash. Arguing against this conventional wisdom, Viviana Zelizer, a distinguished social scientist and prize-winning author, shows how people have invented their own forms of currency, earmarking money in ways that baffle market theorists, incorporating funds into webs of friendship and family relations, and otherwise varying the process by which spending and saving takes place.",
+    category:     'sociology',
+    link:         'amazon.ca',
+    photo:        "The Social Meaning of Money.jpg"
+  },
+  {
+    title:        'Capitalism, Socialism and Democracy',
+    description:  "In this definitive third and final edition (1950) of his masterwork, Joseph A. Schumpeter introduced the world to the concept of “creative destruction,” which forever altered how global economics is approached and perceived. Now featuring a new introduction by Schumpeter biographer Thomas K. McCraw, Capitalism, Socialism and Democracy is essential read­ing for anyone who seeks to understand where the world economy is headed.",
+    category:     'sociology' ,
+    link:         'https://www.amazon.ca/Capitalism-Socialism-Democracy-Joseph-Schumpeter/dp/0061561614/ref=sr_1_1?dchild=1&keywords=Capitalism%2C+Socialism+and+Democracy&qid=1592596350&sr=8-1',
+    photo:        "Capitalism, Socialism and Democracy.jpg"
+  },
+  {
+    title:        "The Great Transformation: The Political and Economic Origins of Our Time",
+    description:  "In this classic work of economic history and social theory, Karl Polanyi analyzes the economic and social changes brought about by the great transformation of the Industrial Revolution. His analysis explains not only the deficiencies of the self-regulating market, but the potentially dire social consequences of untempered market capitalism. New introductory material reveals the renewed importance of Polanyi's seminal analysis in an era of globalization and free trade.",
+    category:     'sociology',
+    link:         'https://www.amazon.ca/Karl-Polanyi/dp/080705643X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1592596530&sr=8-1',
+    photo:        "The Great Transformation.jpg"
+  },
+  {
+    title:        "The Theory of Social and Economic Organization",
+    description:  "2012 Reprint of Original 1947 Edition. Exact facsimile of the original edition, not reproduced with Optical Recognition Software. (c)New Foreword Martino Publishing. This volume contains a full and representative statement of Max Weber's sociological theory, drawn from important publications never previously translated. The book opens with a discussion of the analytical methods of sociology and an application of these methodological conclusions to the broadest classification of social relationship and groups. Nearly half the volume is devoted to a further elaboration of this scheme in the field of economic activity. The typology is copiously illustrated with material from many periods of history and parts of the world. Chapters include: The Fundamental Concepts of Sociology Sociological Categories of Economic Action The Types of Authority and Imperative Co-ordination The Transformation of Charisma in an Anti-Authoritarian Direction Social Stratification and Class Structure",
+    category:     'sociology',
+    link:         'https://www.amazon.ca/Theory-Social-Economic-Organization/dp/1614272573/ref=sr_1_1?dchild=1&keywords=The+Theory+of+Social+and+Economic+Organization&qid=1592596676&sr=8-1',
+    photo:        "The Theory of Social and Economic Organization.jpg"
+  },
+  {
+    title:        "The Evolutionary Bases of Consumption",
+    description:  'The Evolutionary Bases of Consumption by Gad Saad applies Darwinian principles in understanding our consumption patterns and the products of popular culture that most appeal to individuals. The first and only scholarly work to do so, this is a captivating study of the adaptive reasons behind our behaviors, cognitions, emotions, and perceptions. This lens of analysis suggests how we come to make selections such as choosing a mate, the foods we eat, the gifts that we offer, and more. It also highlights how numerous forms of dark side consumption, including pathological gambling, compulsive buying, pornographic addiction, and eating disorders, possess a Darwinian etiology. The Evolutionary Bases of Consumption will appeal to evolutionists who desire to explore new areas wherein evolutionary theory can be applied; consumer and marketing scholars who wish to learn about the ways in which biological-and evolutionary-based theorizing can be infused into the consumer behavior/marketing/advertising disciplines; as well as other interdisciplinary scholars interested in gaining knowledge about the power of evolutionary theory in explaining a wide range of behavioral phenomena.',
+    category:     'sociology',
+    link:         'https://www.amazon.ca/gp/product/080585150X/ref=ox_sc_saved_title_1?smid=A3DWYIK6Y9EEQB&psc=1',
+    photo:        "The Evolutionary Bases of Consumption.jpg"
+  },
+  # {
+  #   title:        Faker::Book.title,
+  #   description:  Faker::GreekPhilosophers.quote,
+  #   category:     category.sample,
+  #   link:         'amazon.ca',
+  #   photo:        "The Theory of Social and Economic Organization.jpg"
+  # },
+  # {
+  #   title:        Faker::Book.title,
+  #   description:  Faker::GreekPhilosophers.quote,
+  #   category:     category.sample,
+  #   link:         'amazon.ca',
+  #   photo:        "The Theory of Social and Economic Organization.jpg"
+  # },
   ##################### History ################################
   {
     title:        'History of economic thought',
@@ -142,6 +198,77 @@ books_attributes = [
     link:         'https://www.amazon.ca/dp/0735222444?psc=1&th=1&ascsubtag=4686729|n1cfb33b8ad7542f8b542b9e40f27002120&linkCode=gs2&tag=dotdashca-20',
     photo:        "Capitalism in America.jpg"
   },
+  {
+    title:        "The General Theory of Employment, Interest and Money: The Keynesian Revolution",
+    description:  "The General Theory of Employment, Interest and Money The Keynesian Revolution Complete Edition By John Maynard Keynes The General Theory of Employment, Interest and Money was written by the English economist John Maynard Keynes. The book, generally considered to be his magnum opus, is largely credited with creating the terminology and shape of modern macroeconomics. Published in February 1936, it sought to bring about a revolution, commonly referred to as the Keynesian Revolution, in the way economists thought – especially in relation to the proposition that a market economy tends naturally to restore itself to full employment after temporary shocks. Regarded widely as the cornerstone of Keynesian thought, the book challenged the established classical economics and introduced important concepts such as the consumption function, the multiplier, the marginal efficiency of capital, the principle of effective demand and liquidity preference. The central argument of The General Theory is that the level of employment is determined, not by the price of labour as in neoclassical economics, but by the spending of money (aggregate demand). Keynes argues that it is wrong to assume that competitive markets will, in the long run, deliver full employment or that full employment is the natural, self-righting, equilibrium state of a monetary economy. On the contrary, under-employment and under-investment are likely to be the natural state unless active measures are taken. One implication of The General Theory is that a lack of competition is not the fundamental problem and measures to reduce unemployment by cutting wages or benefits are not only hard-hearted but ultimately futile.",
+    category:     'history',
+    link:         'https://www.amazon.ca/General-Theory-Employment-Interest-Money/dp/1492844756/ref=sr_1_1?dchild=1&keywords=The+General+Theory+of+Employment%2C+Interest+and+Money&qid=1592596933&sr=8-1',
+    photo:        "The General Theory of Employment, Interest and Money.jpg"
+  },
+  {
+    title:        'The Wealth of Nations',
+    description:  "First published in 1776, The Wealth of Nations is generally regarded as the foundation of contemporary economic thought. Adam Smith, a Scottish professor of moral philosophy, expounded the then-revolutionary doctrine of economic liberalism. The book’s importance was immediately recognized by Smith’s peers, and later economists have shown an unusual consensus in their admiration for his ideas. Combining economics, political theory, history, philosophy, and practical programs, Smith assumes that human self-interest is the basic psychological drive behind economics and that a natural order in the universe makes all the individual, self-interested strivings add up to the social good. His conclusion, that the best program is to leave the economic process alone and that government is useful only as an agent to preserve order and to perform routine functions, is now known as laissez-faire economics or noninterventionism. In noting for the first time the significance of the division of labor and by stating the hypothesis that a commodity’s value correlates to its labor input, Smith anticipated the writings of Karl Marx. Like Marx’s Das Capital and Machiavelli’s The Prince, his great book marked the dawning of a new historical epoch.",
+    category:     'history',
+    link:         'https://www.amazon.ca/Wealth-Nations-Adam-Smith/dp/0679424733/ref=sxts_sxwds-bia-wc-p13n1_0?cv_ct_cx=The+Wealth+of+Nations&dchild=1&keywords=The+Wealth+of+Nations&pd_rd_i=0679424733&pd_rd_r=e0bcfaa8-44fa-42e4-a79c-2cce274a276e&pd_rd_w=go6aO&pd_rd_wg=ELwjN&pf_rd_p=5dc9bb73-73b1-4abd-a228-ac5c707beb7e&pf_rd_r=H1W2K9GS4WT92F7P53PE&psc=1&qid=1592597086&sr=1-1-70f7c15d-07d8-466a-b325-4be35d7258cc',
+    photo:        "The Wealth of Nations.jpg"
+  },
+  {
+    title:        "The Affluent Society",
+    description:  "With customary clarity, eloquence, and humor, Harvard economist John Kenneth Galbraith gets at the heart of what economic security means in The Affluent Society. Warning against individual and societal complacence about economic inequity, he offers an economic model for investing in public wealth that challenges “conventional wisdom” (a phrase he coined that has since entered our vernacular) about the long-term value of a production-based economy and the true nature of poverty. Both politically divisive and remarkably prescient, The Affluent Society is as relevant today on the question of wealth in America as it was in 1958.",
+    category:     'history',
+    link:         'https://www.amazon.com/gp/product/0395925002/ref=as_li_tl?ie=UTF8&tag=thefinaengi0a-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0395925002&linkId=6e5132ffd1fd6b8a3fc9b680ed820574',
+    photo:        "The Affluent Society.jpg"
+  },
+  {
+    title:        "The Commanding Heights: The Battle for the World Economy",
+    description:  'The Pulitzer Prize-winning author of The Prize joins a leading expert on the global economy to present an incisive narrative of the risks and opportunities that are emerging as the balance of power shifts around the world between governments and markets -- and the battle over globalization comes front and center. A brilliant narrative history, The Commanding Heights is about the most powerful economic forces at work in the world today, and about the people and the ideas that are shaping the future. Across the globe, it has become increasingly accepted dogma that economic activities should be dominated by market forces, not political concerns. With chapters on Europe, the US, Britain, the Third World, the Arab States, Asia, China, India, Latin America, and the former communist countries, Yergin and Stanislaw provide an incisive overview of the state of the economy, and of the battles between governments and markets in each region. Now updated throughout and with two new chapters, The Commanding Heights explains a revolution which is unfolding before our very eyes.',
+    category:     "history",
+    link:         'https://www.amazon.ca/Commanding-Heights-Battle-World-Economy/dp/068483569X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1592608619&sr=8-1-spell',
+    photo:        "The Commanding Heights.jpg"
+  },
+  {
+    title:        'A Little History of Economics',
+    description:  "What causes poverty? Are economic crises inevitable under capitalism? Is government intervention in an economy helpful, or harmful? While the answers to such basic economic questions matter to everyone, the unfamiliar language and math of economics can seem daunting. This clear, accessible, and even humorous book is ideal for young readers new to economic concepts, and for readers of all ages who want to better understand economic history and ideas. Economic historian Niall Kishtainy organizes short chapters that center on big ideas and events. He introduces us to some of the key thinkers—Adam Smith, David Ricardo, Karl Marx, John Maynard Keynes, and others—while examining topics ranging from the invention of money to the Great Depression, entrepreneurship, and behavioral economics. The result is an enjoyable book that succeeds in illuminating the economic ideas and forces that shape our world.",
+    category:     'history',
+    link:         'https://www.amazon.ca/gp/product/0300206364/ref=ox_sc_saved_title_1?smid=A3DWYIK6Y9EEQB&psc=1',
+    photo:        "A Little History of Economics.jpg"
+  },
+  {
+    title:        "Against the Gods: The Remarkable Story of Risk",
+    description:  "In this unique exploration of the role of risk in our society, Peter Bernstein argues that the notion of bringing risk under control is one of the central ideas that distinguishes modern times from the distant past. Against the Gods chronicles the remarkable intellectual adventure that liberated humanity from oracles and soothsayers by means of the powerful tools of risk management that are available to us today.",
+    category:     'history',
+    link:         'https://www.amazon.ca/gp/product/0471295639/ref=ox_sc_saved_title_6?smid=A3DWYIK6Y9EEQB&psc=1',
+    photo:        "Against the Gods.jpg"
+  },
+  {
+    title:        "Financial Market History: Reflections on the Past for Investors Today",
+    description:  "Since the 2008 financial crisis, a resurgence of interest in economic and financial history has occurred among investment professionals. This book discusses some of the lessons drawn from the past that may help practitioners when thinking about their portfolios. The book’s editors, David Chambers and Elroy Dimson, are the academic leaders of the Newton Centre for Endowment Asset Management at the University of Cambridge in the United Kingdom.",
+    category:     'history',
+    link:         'https://www.amazon.ca/gp/product/1944960139/ref=ox_sc_saved_title_2?smid=A3DWYIK6Y9EEQB&psc=1',
+    photo:        "Financial Market History.jpg"
+  },
+  {
+    title:        "A Splendid Exchange: How Trade Shaped the World",
+    description:  "Acclaimed by readers and critics around the globe, A Splendid Exchange is a sweeping narrative history of world trade-from Mesopotamia in 3000 B.C. to the firestorm over globalization today-that brilliantly explores trade's colorful and contentious past and provides new insights into its future.",
+    category:     'history',
+    link:         'https://www.amazon.ca/gp/product/0802144160/ref=ox_sc_saved_title_8?smid=A3DWYIK6Y9EEQB&psc=1',
+    photo:        "A Splendid Exchange.jpg"
+  },
+  {
+    title:        "The Enlightened Economy: An Economic History of Britain 1700-1850",
+    description:  "This book focuses on the importance of ideological and institutional factors in the rapid development of the British economy during the years between the Glorious Revolution and the Crystal Palace Exhibition. Joel Mokyr shows that we cannot understand the Industrial Revolution without recognizing the importance of the intellectual sea changes of Britain’s Age of Enlightenment.",
+    category:     'history',
+    link:         'https://www.amazon.ca/gp/product/0300189516/ref=ox_sc_saved_title_7?smid=A3DWYIK6Y9EEQB&psc=1',
+    photo:        "The Enlightened Economy.jpg"
+  },
+  # {
+  #   title:        Faker::Book.title,
+  #   description:  Faker::GreekPhilosophers.quote,
+  #   category:     category.sample,
+  #   link:         'amazon.ca',
+  #   photo:        "The Theory of Social and Economic Organization.jpg"
+  # },
+
   ################################### Economy ##########################################################
   {
     title:        'Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics',
@@ -192,6 +319,55 @@ books_attributes = [
     link:         'https://www.amazon.ca/Economics-Book-Ideas-Simply-Explained/dp/0756698278/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1592514773&sr=8-1',
     photo:        "The Economics Book.jpg"
   },
+  {
+    title:        "Irrational Exuberance: Revised and Expanded Third Edition",
+    description:  "In this revised, updated, and expanded edition of his New York Times bestseller, Nobel Prize–winning economist Robert Shiller, who warned of both the tech and housing bubbles, cautions that signs of irrational exuberance among investors have only increased since the 2008–9 financial crisis. With high stock and bond prices and the rising cost of housing, the post-subprime boom may well turn out to be another illustration of Shiller's influential argument that psychologically driven volatility is an inherent characteristic of all asset markets. In other words, Irrational Exuberance is as relevant as ever. Previous editions covered the stock and housing markets—and famously predicted their crashes. This edition expands its coverage to include the bond market, so that the book now addresses all of the major investment markets. It also includes updated data throughout, as well as Shiller's 2013 Nobel Prize lecture, which places the book in broader context. In addition to diagnosing the causes of asset bubbles, Irrational Exuberance recommends urgent policy changes to lessen their likelihood and severity—and suggests ways that individuals can decrease their risk before the next bubble bursts. No one whose future depends on a retirement account, a house, or other investments can afford not to read this book.",
+    category:     "economy",
+    link:         'https://www.amazon.ca/Irrational-Exuberance-Revised-Expanded-Third-ebook/dp/B00P6ZJ6HC/ref=sr_1_1?crid=QTN2JA98GZK9&dchild=1&keywords=irrational+exuberance&qid=1592608869&sprefix=irrational%2Caps%2C148&sr=8-1',
+    photo:        "Irrational Exuberance.jpg"
+  },
+  {
+    title:        "Misbehaving",
+    description:  "Richard H. Thaler has spent his career studying the radical notion that the central agents in the economy are humans―predictable, error-prone individuals. Misbehaving is his arresting, frequently hilarious account of the struggle to bring an academic discipline back down to earth―and change the way we think about economics, ourselves, and our world. Traditional economics assumes rational actors. Early in his research, Thaler realized these Spock-like automatons were nothing like real people. Whether buying a clock radio, selling basketball tickets, or applying for a mortgage, we all succumb to biases and make decisions that deviate from the standards of rationality assumed by economists. In other words, we misbehave. More importantly, our misbehavior has serious consequences. Dismissed at first by economists as an amusing sideshow, the study of human miscalculations and their effects on markets now drives efforts to make better decisions in our lives, our businesses, and our governments. Coupling recent discoveries in human psychology with a practical understanding of incentives and market behavior, Thaler enlightens readers about how to make smarter decisions in an increasingly mystifying world. He reveals how behavioral economic analysis opens up new ways to look at everything from household finance to assigning faculty offices in a new building, to TV game shows, the NFL draft, and businesses like Uber. Laced with antic stories of Thaler’s spirited battles with the bastions of traditional economic thinking, Misbehaving is a singular look into profound human foibles. When economics meets psychology, the implications for individuals, managers, and policy makers are both profound and entertaining. Shortlisted for the Financial Times & McKinsey Business Book of the Year Award",
+    category:     'economy',
+    link:         'https://www.amazon.ca/Misbehaving-Richard-H-Thaler/dp/039335279X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1592609018&sr=8-1',
+    photo:        "Misbehaving.jpg"
+  },
+  {
+    title:        "How the Economy Works: Confidence, Crashes and Self-Fulfilling Prophecies",
+    description:  "Of all the economic bubbles that have been pricked, the editors of The Economist recently observed, few have burst more spectacularly than the reputation of economics itself. Indeed, the financial crisis that crested in 2008 destroyed the credibility of the economic thinking that had guided policymakers for a generation. But what will take its place? In How the Economy Works, one of our leading economists provides a jargon-free exploration of the current crisis, offering a powerful argument for how economics must change to get us out of it. Roger E. A. Farmer traces the swings between classical and Keynesian economics since the early twentieth century, gracefully explaining the elements of both theories. During the Great Depression, Keynes challenged the longstanding idea that an economy was a self-correcting mechanism; but his school gave way to a resurgence of classical economics in the 1970s-a rise that ended with the current crisis. Rather than simply allowing the pendulum to swing back, Farmer writes, we must synthesize the two. From classical economics, he takes the idea that a sound theory must explain how individuals behave-how our collective choices shape the economy. From Keynesian economics, he adopts the principle that markets do not always work well, that capitalism needs some guidance. The goal, he writes, is to correct the excesses of a free-market economy without stifling entrepreneurship and instituting central planning. Recent events have shown that we cannot afford to treat economics as an ivory-tower abstraction. It has a direct impact on our lives by guiding regulators and policymakers as they make decisions with far-reaching practical consequences. Written in clear, accessible language, How the Economy Works makes an argument that no one should ignore.",
+    category:     'economy',
+    link:         'https://www.amazon.ca/gp/product/0199360308/ref=ox_sc_saved_title_3?smid=A3DWYIK6Y9EEQB&psc=1',
+    photo:        "How the Economy Works.jpg"
+  },
+  {
+    title:        "Mastering the Market Cycle: Getting the Odds on Your Side",
+    description:  "We all know markets rise and fall, but when should you pull out, and when should you stay in? The answer is never black or white, but is best reached through a keen understanding of the reasons behind the rhythm of cycles. Confidence about where we are in a cycle comes when you learn the patterns of ups and downs that influence not just economics, markets and companies, but also human psychology and the investing behaviors that result. If you study past cycles, understand their origins and remain alert for the next one, you will become keenly attuned to the investment environment as it changes. You'll be aware and prepared while others get blindsided by unexpected events or fall victim to emotions like fear and greed. By following Marks's insights - drawn in part from his iconic memos over the years to Oaktree's clients - you can master these recurring patterns to have the opportunity to improve your results.",
+    category:     'economy',
+    link:         'https://www.amazon.ca/gp/product/1328479250/ref=ox_sc_saved_title_10?smid=A3DWYIK6Y9EEQB&psc=1',
+    photo:        "Mastering the Market Cycle.jpg"
+  },
+  {
+    title:        "More Money Than God: Hedge Funds and the Making of a New Elite",
+    description:  'Wealthy, powerful, and potentially dangerous, hedge fund moguls have become the It Boys of twenty-first- century capitalism. Beating the market was long thought to be impossible, but hedge funds cracked its mysteries and made fortunes in the process. Drawing on his unprecedented access to the industry, esteemed financial writer Sebastian Mallaby tells the inside story of the hedge funds, from their origins in the 1960s to their role in the financial crisis of 2007 to 2009.',
+    category:     'economy',
+    link:         'https://www.amazon.ca/gp/product/0143119419/ref=ox_sc_saved_title_5?smid=A3DWYIK6Y9EEQB&psc=1',
+    photo:        "More Money Than God.jpg"
+  },
+  {
+    title:        "The Wisdom of Finance: Discovering Humanity in the World of Risk and Return Hardcover",
+    description:  "read it",
+    category:     'economy',
+    link:         'https://www.amazon.ca/gp/product/054491113X/ref=ox_sc_saved_title_8?smid=A3DWYIK6Y9EEQB&psc=1',
+    photo:        "The Wisdom of Finance.jpg"
+  },
+  # {
+  #   title:        Faker::Book.title,
+  #   description:  Faker::GreekPhilosophers.quote,
+  #   category:     category.sample,
+  #   link:         'amazon.ca',
+  #   photo:        "bookexample.jpg"
+  # },
   ############################## Business ##############################################
   {
     title:        "Good to Great: Why Some Companies Make the Leap...and Others Don't",
@@ -242,6 +418,76 @@ books_attributes = [
     link:         'https://www.amazon.ca/Principles-Life-Work-Ray-Dalio/dp/1501124021/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1592516021&sr=8-1',
     photo:        "Principles.jpg"
   },
+  {
+    title:        'Business Adventures: Twelve Classic Tales from the World of Wall Street',
+    description:  "What do the $350 million Ford Motor Company disaster known as the Edsel, the fast and incredible rise of Xerox, and the unbelievable scandals at General Electric and Texas Gulf Sulphur have in common? Each is an example of how an iconic company was defined by a particular moment of fame or notoriety; these notable and fascinating accounts are as relevant today to understanding the intricacies of corporate life as they were when the events happened. Stories about Wall Street are infused with drama and adventure and reveal the machinations and volatile nature of the world of finance. Longtime New Yorker contributor John Brooks’s insightful reportage is so full of personality and critical detail that whether he is looking at the astounding market crash of 1962, the collapse of a well-known brokerage firm, or the bold attempt by American bankers to save the British pound, one gets the sense that history repeats itself. Five additional stories on equally fascinating subjects round out this wonderful collection that will both entertain and inform readers . . . Business Adventures is truly financial journalism at its liveliest and best.",
+    category:     'business',
+    link:         'https://www.amazon.ca/Business-Adventures-Twelve-Classic-Street-ebook/dp/B00L1TPCKW/ref=sr_1_1?dchild=1&keywords=Business+Adventures&qid=1592597755&s=books&sr=1-1',
+    photo:        "Business Adventures.jpg"
+  },
+  {
+    title:        "The Outsiders: Eight Unconventional CEOs and Their Radically Rational Blueprint for Success",
+    description:  "What makes a successful CEO? Most people call to mind a familiar definition: “a seasoned manager with deep industry expertise.” Others might point to the qualities of today’s so-called celebrity CEOs—charisma, virtuoso communication skills, and a confident management style. But what really matters when you run an organization? What is the hallmark of exceptional CEO performance? Quite simply, it is the returns for the shareholders of that company over the long term. In this refreshing, counterintuitive book, author Will Thorndike brings to bear the analytical wisdom of a successful career in investing, closely evaluating the performance of companies and their leaders. You will meet eight individualistic CEOs whose firms’ average returns outperformed the S&P 500 by a factor of twenty—in other words, an investment of $10,000 with each of these CEOs, on average, would have been worth over $1.5 million twenty-five years later. You may not know all their names, but you will recognize their companies: General Cinema, Ralston Purina, The Washington Post Company, Berkshire Hathaway, General Dynamics, Capital Cities Broadcasting, TCI, and Teledyne. In The Outsiders, you’ll learn the traits and methods—striking for their consistency and relentless rationality—that helped these unique leaders achieve such exceptional performance. Humble, unassuming, and often frugal, these “outsiders” shunned Wall Street and the press, and shied away from the hottest new management trends. Instead, they shared specific traits that put them and the companies they led on winning trajectories: a laser-sharp focus on per share value as opposed to earnings or sales growth; an exceptional talent for allocating capital and human resources; and the belief that cash flow, not reported earnings, determines a company’s long-term value. Drawing on years of research and experience, Thorndike tells eye-opening stories, extracting lessons and revealing a compelling alternative model for anyone interested in leading a company or investing in one—and reaping extraordinary returns.",
+    category:     'business',
+    link:         'https://www.amazon.ca/Outsiders-Unconventional-Radically-Rational-Blueprint/dp/1422162672/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1592597952&sr=1-1',
+    photo:        "The Outsiders.jpg"
+  },
+  {
+    title:        "Blue Ocean Strategy, Expanded Edition: How to Create Uncontested Market Space and Make the Competition Irrelevant",
+    description:  "In this perennial bestseller, embraced by organizations and industries worldwide, globally preeminent management thinkers W. Chan Kim and Renee Mauborgne challenge everything you thought you knew about the requirements for strategic success. Recognized as one of the most iconic and impactful strategy books ever written, BLUE OCEAN STRATEGY, now updated with fresh content from the authors, argues that cutthroat competition results in nothing but a bloody red ocean of rivals fighting over a shrinking profit pool. Based on a study of 150 strategic moves (spanning more than 100 years across 30 industries), the authors argue that lasting success comes not from battling competitors but from creating blue oceans--untapped new market spaces ripe for growth. A landmark work that upends traditional thinking about strategy, this bestselling book charts a bold new path to winning the future. Consider this your guide to creating uncontested market space--and making the competition irrelevant. To learn more about the power of BLUE OCEAN STRATEGY, visit blueoceanstrategy.com. There you'll find all the resources you need--from ideas in practice and cases from government and private industry, to teaching materials, mobile apps, real-time updates, and tips and tools to help you make your blue ocean journey a success.",
+    category:     'business',
+    link:         'https://www.amazon.ca/Blue-Ocean-Strategy-Expanded-Uncontested-ebook/dp/B00O4CRR7Y/ref=sr_1_1?dchild=1&keywords=Blue+Ocean+Strategy&qid=1592598091&s=books&sr=1-1',
+    photo:        "Blue Ocean Strategy, Expanded Edition.jpg"
+  },
+  {
+    title:        "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
+    description:  "In 2014, Theranos founder and CEO Elizabeth Holmes was widely seen as the next Steve Jobs: a brilliant Stanford dropout whose startup “unicorn” promised to revolutionize the medical industry with its breakthrough device, which performed the whole range of laboratory tests from a single drop of blood. Backed by investors such as Larry Ellison and Tim Draper, Theranos sold shares in a fundraising round that valued the company at more than $9 billion, putting Holmes’s worth at an estimated $4.5 billion. There was just one problem: The technology didn’t work. Erroneous results put patients in danger, leading to misdiagnoses and unnecessary treatments. All the while, Holmes and her partner, Sunny Balwani, worked to silence anyone who voiced misgivings—from journalists to their own employees. Rigorously reported and fearlessly written, Bad Blood is a gripping story of the biggest corporate fraud since Enron—a tale of ambition and hubris set amid the bold promises of Silicon Valley.",
+    category:     'business',
+    link:         'https://www.amazon.ca/Bad-Blood-Secrets-Silicon-Startup/dp/0525431993/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1592598211&sr=1-1',
+    photo:        "Bad Blood.jpg"
+  },
+  {
+    title:        'Too Big to Fail',
+    description:  "In one of the most gripping financial narratives in decades, Andrew Ross Sorkin—a New York Times columnist and one of the country's most respected financial reporters—delivers the first definitive blow-by-blow account of the epochal economic crisis that brought the world to the brink. Through unprecedented access to the players involved, he re-creates all the drama and turmoil of these turbulent days, revealing never-before-disclosed details and recounting how, motivated as often by ego and greed as by fear and self-preservation, the most powerful men and women in finance and politics decided the fate of the world's economy.",
+    category:     'business',
+    link:         'https://www.amazon.ca/Too-Big-Fail-Washington-System/dp/0143118242/ref=sr_1_1?dchild=1&keywords=Too+Big+to+Fail&qid=1592598365&s=books&sr=1-1',
+    photo:        "Too Big to Fail.jpg"
+  },
+  {
+    title:        "Barbarians at the Gate",
+    description:  'A #1 New York Times bestseller and arguably the best business narrative ever written, Barbarians at the Gate is the classic account of the fall of RJR Nabisco. An enduring masterpiece of investigative journalism by Bryan Burrough and John Helyar, it includes a new afterword by the authors that brings this remarkable story of greed and double-dealings up to date twenty years after the famed deal. The Los Angeles Times calls Barbarians at the Gate, “Superlative.” The Chicago Tribune raves, “It’s hard to imagine a better story...and it’s hard to imagine a better account.” And in an era of spectacular business crashes and federal bailouts, it still stands as a valuable cautionary tale that must be heeded.',
+    category:     'business',
+    link:         'https://www.amazon.ca/Barbarians-Gate-Fall-RJR-Nabisco/dp/0061655554/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1592598520&sr=1-1',
+    photo:        "Barbarians at the Gate.jpg"
+  },
+  {
+    title:        "Guerrilla Marketing",
+    description:  "When Guerrilla Marketing was first published in 1983, Jay Levinson revolutionized marketing strategies for the small-business owner with his take-no-prisoners approach to finding clients. Based on hundreds of solid ideas that really work, Levinson's philosophy has given birth to a new way of learning about market share and how to gain it. Guerrilla Marketing is the entrepreneur's marketing bible - and the book every small-business owner should have on his or her shelf.",
+    category:     'business',
+    link:         'https://www.amazon.ca/Guerrilla-Marketing-4th-Inexpensive-SmallBusiness/dp/0618785914/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1592598628&sr=1-1',
+    photo:        "Guerrilla Marketing.jpg"
+  },
+  {
+    title:        "The Essays of Warren Buffett: Lessons for Corporate America",
+    description:  "The year 2015 marks the fiftieth anniversary of Berkshire Hathaway under Warren Buffett's leadership, a milestone worth commemorating. The tenure sets a record for chief executive not only in duration but in value creation and philosophizing. The fourth edition of The Essays of Warren Buffett: Lessons for Corporate America celebrates its twentieth anniversary. As the book Buffett autographs most, its popularity and longevity attest to the widespread appetite for this unique compilation of Buffett's thoughts that is at once comprehensive, non-repetitive, and digestible. New and experienced readers alike will gain an invaluable informal education by perusing this classic arrangement of Warren's best writings. The fourth edition's new material includes: Warren's 50th anniversary retrospective, in what Bill Gates called Warren's best letter ever, on conglomerates and Berkshire's future without Buffett; Charlie Munger's 50th anniversary essay on ''The Berkshire System''; Warren's definitive defense of Berkshire's no-dividend practice; and Warren's best advice on investing, whether in apartments, farms, or businesses.",
+    category:     'business',
+    link:         'amazon.ca/dp/1611637589/ref=as_li_tl?slotNum=4&ie=UTF8&linkCode=g12&linkId=49d67d579222918cd18a72e4b93eb593&imprToken=OgMK1w1YPOfw0lRU9Mo28g&creativeASIN=1611637589&tag=bica09-20&creative=9325&camp=1789',
+    photo:        "The Essays of Warren Buffett.jpg"
+  },
+  {
+    title:        "Sam Walton: Made in America",
+    description:  "Meet a genuine American folk hero cut from the homespun cloth of America's heartland: Sam Walton, who parlayed a single dime store in a hardscrabble cotton town into Wal-Mart, the largest retailer in the world. The undisputed merchant king of the late 20th century, Sam never lost the common touch. Here, finally, inimitable words. Genuinely modest, but always sure of his ambitions and achievements. Sam shares his thinking in a candid, straight-from-the-shoulder style. In a story rich with anecdotes and the rules of the road of both Main Street and Wall Street, Sam Walton chronicles the inspiration, heart, and optimism that propelled him to lasso the American Dream.",
+    category:     'business',
+    link:         'https://www.amazon.ca/SAM-WALTON-WALMART-Sam-Walton/dp/0385468474/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1592609154&sr=8-1',
+    photo:        "Sam Walton.jpg"
+  },
+  {
+    title:        "Competitive Strategy: Techniques for Analyzing Industries and Competitors",
+    description:  "Electrifying in its simplicity—like all great breakthroughs—Porter’s analysis of industries captures the complexity of industry competition in five underlying forces. Porter introduces one of the most powerful competitive tools yet developed: his three generic strategies—lowest cost, differentiation, and focus—which bring structure to the task of strategic positioning. He shows how competitive advantage can be defined in terms of relative cost and relative prices, thus linking it directly to profitability, and presents a whole new perspective on how profit is created and divided. In the almost two decades since publication, Porter's framework for predicting competitor behavior has transformed the way in which companies look at their rivals and has given rise to the new discipline of competitor assessment. More than a million managers in both large and small companies, investment analysts, consultants, students, and scholars throughout the world have internalized Porter's ideas and applied them to assess industries, understand competitors, and choose competitive positions. The ideas in the book address the underlying fundamentals of competition in a way that is independent of the specifics of the ways companies go about competing. Competitive Strategy has filled a void in management thinking. It provides an enduring foundation and grounding point on which all subsequent work can be built. By bringing a disciplined structure to the question of how firms achieve superior profitability, Porter’s rich frameworks and deep insights comprise a sophisticated view of competition unsurpassed in the last quarter-century.",
+    category:     'business',
+    link:         'https://www.amazon.ca/Competitive-Strategy-Techniques-Industries-Competitors/dp/0743260880/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1592616121&sr=8-1',
+    photo:        "Competitive Strategy.jpg"
+  },
   #################################### Investing ###########################################
   {
     title:        "Security Analysis",
@@ -264,6 +510,90 @@ books_attributes = [
     link:         'https://www.amazon.ca/Little-Book-Common-Sense-Investing/dp/1119404509/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1592516550&sr=1-1s',
     photo:        "Little Book of Common Sense Investing.jpg"
   },
+  {
+    title:        "Common Stocks and Uncommon Profits",
+    description:  "Widely respected and admired, Philip Fisher is among the most influential investors of all time. His investment philosophies, introduced almost forty years ago, are not only studied and applied by today's finance professionals, but are also regarded by many as gospel. He recorded these philosophies in Common Stocks and Uncommon Profits, a book considered invaluable reading when it was first published in 1958, and a must-read today.",
+    category:     'investing',
+    link:         'https://www.amazon.ca/Common-Stocks-Uncommon-Profits-Writings/dp/047111927X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1592609302&sr=1-2',
+    photo:        "Common Stocks and Uncommon Profits.jpg"
+  },
+  {
+    title:        "A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing",
+    description:  "In a time of market volatility and economic uncertainty, when high-frequency traders and hedge fund managers seem to tower over the average investor, Burton G. Malkiel's classic and gimmick-free investment guide is now more necessary than ever. Rather than tricks, what you'll find here is a time-tested and thoroughly research-based strategy for your portfolio. Whether you're considering your first 401(k) contribution or contemplating retirement, this fully updated edition of A Random Walk Down Wall Street should be the first book on your reading list. In A Random Walk Down Wall Street you'll learn the basic terminology of The Street and how to navigate it with the help of a user-friendly, long-range investment strategy that really works. Drawing on his own varied experience as an economist, financial adviser, and successful investor, Malkiel shows why, despite recent advice to the contrary from so-called experts in the wake of the financial crisis, an individual who buys over time and holds a low-cost, internationally diversified index of securities is still likely to exceed the performance of portfolios carefully picked by professionals using sophisticated analytical techniques. In this new edition, Malkiel has provided valuable new material throughout the book on exchange-traded funds and investment opportunities in emerging markets, and in a brand-new, timely chapter, Malkiel authoritatively assesses the pitfalls and prospects of the latest investing trend, smart beta. On top of all this, the book's classic life-cycle guide to investing, which tailors strategies to investors of any age, will help you plan confidently for the future. You'll learn how to analyze the potential returns, not only for basic stocks and bonds but for the full range of investment opportunities—from money-market accounts and real estate investment trusts to insurance, home ownership, and tangible assets like gold and collectibles. Individual investors of every level of experience and risk tolerance will find throughout the book the critical facts and step-by-step guidance they need to protect and grow their hard-earned dollars. With the prevailing wisdom changing on an almost daily basis, Malkiel's reassuring and vastly informative volume remains the best investment guide money can buy.",
+    category:     'investing',
+    link:         'https://www.amazon.ca/Random-Walk-Down-Wall-Street/dp/0393358380/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1592609414&sr=1-1',
+    photo:        "A Random Walk Down Wall Street.jpg"
+  },
+  {
+    title:        "Unshakeable: Your Financial Freedom",
+    description:  "Robbins, who has coached more than fifty million people from 100 countries, is the world’s #1 life and business strategist. In this book, he teams up with Peter Mallouk, the only man in history to be ranked the #1 financial advisor in the US for three consecutive years by Barron’s. Together they reveal how to become unshakeable—someone who can not only maintain true peace of mind in a world of immense uncertainty, economic volatility, and unprecedented change, but who can profit from the fear that immobilizes so many.",
+    category:     "investing",
+    link:         'https://www.amazon.ca/Unshakeable-Your-Financial-Freedom-Playbook/dp/1501164597/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1592609557&sr=1-1',
+    photo:        "Unshakeable.jpg"
+  },
+  {
+    title:        "Tao of Charlie Munger",
+    description:  "Words of wisdom from Charlie Munger—Warren Buffett’s longtime business partner and the visionary Vice Chairman of Berkshire Hathaway—collected and interpreted with an eye towards investing by David Clark, coauthor of the bestselling Buffettology series. Born in Omaha, Nebraska in 1924 Charlie Munger studied mathematics at the University of Michigan, trained as a meteorologist at Cal Tech Pasadena while in the Army, and graduated magna cum laude from Harvard Law School without ever earning an undergraduate degree. Today, Munger is one of America’s most successful investors, the Vice Chairman of Berkshire Hathaway, and Warren Buffett’s business partner for almost forty years. Buffett says “Berkshire has been built to Charlie’s blueprint. My role has been that of general contractor.” Munger is an intelligent, opinionated business man whose ideas can teach professional and amateur investors how to be successful in finance and life. Like The Tao of Warren Buffett and The Tao of Te Ching, The Tao of Charlie Munger is a compendium of pithy quotes including, “Knowing what you don’t know is more useful than being brilliant” and “In my whole life, I have known no wise people who didn’t read all the time—none, zero.” This collection, culled from interviews, speeches, and questions and answers at the Berkshire Hathaway and Wesco annual meetings, offers insights into Munger’s amazing financial success and life philosophies. Described by Business Insider as “sharp in his wit and investing wisdom,” Charlie Munger’s investment tips, business philosophy, and rules for living are as unique as his life story; intelligent as he clearly is; and as successful as he has been.",
+    category:     'investing',
+    link:         'https://www.amazon.ca/Tao-Charlie-Munger-Compilation-Commentary/dp/150115334X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1592609656&sr=1-1',
+    photo:        "Tao of Charlie Munger.jpg"
+  },
+  {
+    title:        "Stock Market Rules: The 50 Most Widely Held Investment Axioms Explained, Examined, and Exposed, Fourth Edition",
+    description:  "Discusses commonly-held beliefs about stock market investments and explains to what extent they are valid.",
+    category:     "investing",
+    link:         'https://www.amazon.ca/gp/product/0071803254/ref=ox_sc_saved_title_6?smid=A1CCONAPHWZ5UR&psc=1',
+    photo:        "Stock Market Rules.jpg"
+  },
+  {
+    title:        "What Works on Wall Street, Fourth Edition: The Classic Guide to the Best-Performing Investment Strategies of All Time",
+    description:  "Recent history has witnessed one of the worst stock market beatings ever. As a result, abysmal returns are being called the new normal, financial experts are ringing the death knell of buy-and-hold, and investors faith in equities has hit an all-time low. You have two choices. You can abandon the stock market based on what is happening today. Or you can invest today based on what will happen in the future. Containing all new data, What Works on Wall Street, Fourth Edition, is the only investing guide that lets you see todays market in its proper context as part of the historical ebb and flow of the stock market. And when you see the data, youll see there is no argument: Stocks work. Providing you with unparalleled insights into stock performance going back to 1926, What Works on Wall Street is a refreshingly calming, objective view of a subject that is usually wrapped in drama, hyperbole, and opinions that are plain wrong. This comprehensive guide provides the objective facts and winning strategies you need; all you have to do is make the decision to ignore the so-called market experts and rely on the long-proven approach that has made What Works on Wall Street an investing classic.",
+    category:     "investing",
+    link:         'https://www.amazon.ca/gp/product/0071625763/ref=ox_sc_saved_title_7?smid=A3DWYIK6Y9EEQB&psc=1',
+    photo:        "What Works on Wall Street.jpg"
+  },
+  {
+    title:        "Market Masters: Interviews with Canada’s Top Investors ― Proven Investing Strategies You Can Apply",
+    description:  "Market Masters is the definitive book on investing in the Canadian market, featuring exclusive and insightful conversations and first-hand advice from Canada’s top investors. These interviews delve into each investor’s investment philosophies, strategies, and processes, as well as their successes, challenges, and outlooks in the market. Learn proven investing strategies, processes, and approaches that you can easily apply to the market to make your winnings more plentiful, predictable, and profitable. The 28 top investors span multiple areas on the market paradigm to offer readers a variety of perspectives, including: five investing styles; proven, actionable, and timeless strategies to increase your winnings in the market; stocks, bonds, options, and other financial instruments; and shared conceptions that explain how the Market Masters continually beat the market. Through a collection of Master Keys, the most important tips from each investor are highlighted throughout the book. Market Masters contains timeless advice on how to beat the market that will entertain, inform, and empower generations of Canadian investors. Includes interviews with Jason Donville, Francis Chou, Benj Gallander, Martin Braun, Bill Ackman, and many more.",
+    category:     'investing',
+    link:         'https://www.amazon.ca/gp/product/177041343X/ref=ox_sc_saved_title_5?smid=A3DWYIK6Y9EEQB&psc=1',
+    photo:        "Market Masters.jpg"
+  },
+  {
+    title:        "Financial Statement Analysis: A Practitioner's Guide",
+    description:  "Financial Statement Analysis is a unique text; it combines great academic work with numerous real-life examples to form a highly useful reference for equity investors, debt holders, and investors who straddle both asset classes. Whether you are an investor, an investment advisor, or a teacher, Financial Statement Analysis will prove very valuable. This book rightly urges resolute skepticism when inspecting financial statements. Its great value, though, is in the plain-spoken stripping down of real-world and illustrative examples that show how to see past the numbers to the practicalities and incentives behind them—and so help analysts and journalists alike ask the right questions.",
+    category:     'investing',
+    link:         'https://www.amazon.ca/gp/product/0470635606/ref=ox_sc_saved_title_7?smid=A3DWYIK6Y9EEQB&psc=1',
+    photo:        "Financial Statement Analysis.jpg"
+  },
+  {
+    title:        "Warren Buffett Accounting Book: Reading Financial Statements for Value Investing",
+    description:  "The Warren Buffett Accounting Book is the second volume learning experience to Warren Buffett's Three Favorite Books. This book teaches: 1. Two methods for calculating the intrinsic value of a company 2. What is a discount rate and how does it work 3. Detailed instructions on how to read an income statement, Balance sheet, and cash flow statement 4. How to calculate important ratios to properly value any business",
+    category:     'investing',
+    link:         'https://www.amazon.ca/gp/product/1939370159/ref=ox_sc_saved_title_6?smid=A3DWYIK6Y9EEQB&psc=1',
+    photo:        "Warren Buffett Accounting Book.jpg"
+  },
+  {
+    title:        "The Tao of Warren Buffett: Warren Buffett's Words of Wisdom: Quotations and Interpretations to Help Guide You to Billionaire Wealth and Enlightened Business Management",
+    description:  "A collection of pithy and inspiring sayings from America's favorite businessman that reveal his secrets of success. Like the sayings of the ancient Chinese philospher Lao-tzu, Warren Buffett's worldly wisdom is deceptively simple and enormously powerful in application. In The Tao of Warren Buffett, Mary Buffett -- author of three books on Warren Buffett's investment methods -- joins noted Buffettologist and international lecturer David Clark to bring you Warren Buffett's smartest, funniest, and most memorable sayings with an eye toward revealing the life philosophy and the investment strategies that have made Warren Buffett, and the shareholders of Berkshire Hathaway, so enormously wealthy. Warren Buffett's investment achievements are unparalleled. He owes his success to hard work, integrity, and that most elusive commodity of all, common sense. The quotations in this book exemplify Warren's practical strategies and provide useful illustrations for every investor -- large or small -- and models everyone can follow. The quotes are culled from a variety of sources, including personal conversations, corporate reports, profiles, and interviews. The authors provide short explanations for each quote and use examples from Buffett's own business transactions whenever possible to illustrate his words at work. The Tao of Warren Buffett inspires, amuses, sharpens the mind, and offers priceless investment savvy that anyone can take to the bank. This irresistibly browsable and entertaining book is destined to become a classic.",
+    category:     'investing',
+    link:         'https://www.amazon.ca/gp/product/1416541322/ref=ox_sc_saved_title_3?smid=A3DWYIK6Y9EEQB&psc=1',
+    photo:        "The Tao of Warren Buffett.jpg"
+  },
+  {
+    title:        "The Interpretation of Financial Statements: The Classic 1937 Edition",
+    description:  "Benjamin Graham has been called the most important investment thinker of the twentieth century. As a master investor, pioneering stock analyst, and mentor to investment superstars, he has no peer. The volume you hold in your hands is Graham's timeless guide to interpreting and understanding financial statements. It has long been out of print, but now joins Graham's other masterpieces, The Intelligent Investor and Security Analysis, as the three priceless keys to understanding Graham and value investing. The advice he offers in this book is as useful and prescient today as it was sixty years ago. As he writes in the preface, The advice he offers in this book is as useful and prescient today as it was sixty years ago. As he writes in the preface, if you have precise information as to a company's present financial position and its past earnings record, you are better equipped to gauge its future possibilities. And this is the essential function and value of security analysis.if you have precise information as to a company's present financial position and its past earnings record, you are better equipped to gauge its future possibilities. And this is the essential function and value of security analysis. Written just three years after his landmark Security Analysis, The Interpretation of Financial Statements gets to the heart of the master's ideas on value investing in astonishingly few pages. Readers will learn to analyze a company's balance sheets and income statements and arrive at a true understanding of its financial position and earnings record. Graham provides simple tests any reader can apply to determine the financial health and well-being of any company. This volume is an exact text replica of the first edition of The Interpretation of Financial Statements, published by Harper & Brothers in 1937. Graham's original language has been restored, and readers can be assured that every idea and technique presented here appears exactly as Graham intended. Highly practical and accessible, it is an essential guide for all business people--and makes the perfect companion volume to Graham's investment masterpiece The Intelligent Investor.",
+    category:     'investing',
+    link:         'https://www.amazon.ca/gp/product/0887309135/ref=ox_sc_saved_title_10?smid=A3DWYIK6Y9EEQB&psc=1',
+    photo:        "The Interpretation of Financial Statements.jpg"
+  },
+  # {
+  #   title:        Faker::Book.title,
+  #   description:  Faker::GreekPhilosophers.quote,
+  #   category:     category.sample,
+  #   link:         'amazon.ca',
+  #   photo:        "bookexample.jpg"
+  # },
   #################################### Trading ######################################
   {
     title:        'The Disciplined Trader: Developing Winning Attitudes',
@@ -285,7 +615,56 @@ books_attributes = [
     category:     'trading',
     link:         'https://www.amazon.ca/Market-Wizards-Interviews-Top-Traders/dp/1592802974/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1592516827&sr=1-1',
     photo:        "Reminiscences of a Stock Operator.jpg"
+  },
+  {
+    title:        "Trading for a Living: Psychology, Trading Tactics, Money Management ",
+    description:  "Trading for a Living Successful trading is based on three M's: Mind, Method, and Money. Trading for a Living helps you master all of those three areas: * How to become a cool, calm, and collected trader * How to profit from reading the behavior of the market crowd * How to use a computer to find good trades * How to develop a powerful trading system. Trading for a Living helps you discipline your Mind, shows you the Methods for trading the markets, and shows you how to manage Money in your trading accounts so that no string of losses can kick you out of the game. To help you profit even more from the ideas in Trading for a Living, look for the companion volume--Study Guide for Trading for a Living. It asks over 200 multiple-choice questions, with answers and 11 rating scales for sharpening your trading skills.",
+    category:     "trading",
+    link:         'https://www.amazon.ca/Trading-Living-Psychology-Tactics-Management/dp/0471592242/ref=sxts_sxwds-bia-wc-p13n1_0?crid=HLLCRT1AFUOS&cv_ct_cx=trading+for+a+living&dchild=1&keywords=trading+for+a+living&pd_rd_i=0471592242&pd_rd_r=7bf4492f-b9c8-4888-8a1c-4513f41e893a&pd_rd_w=jNmIW&pd_rd_wg=v7T6G&pf_rd_p=5dc9bb73-73b1-4abd-a228-ac5c707beb7e&pf_rd_r=DYRE06ZWD5VM06G61C9J&psc=1&qid=1592612631&sprefix=trading+for+a+%2Caps%2C150&sr=1-1-70f7c15d-07d8-466a-b325-4be35d7258cc',
+    photo:        "Trading for a Living.jpg"
+  },
+  {
+    title:        "Trading in the Zone: Master the Market with Confidence, Discipline, and a Winning Attitude",
+    description:  "Douglas uncovers the underlying reasons for lack of consistency and helps traders overcome the ingrained mental habits that cost them money.  He takes on the myths of the market and exposes them one by one teaching traders to look beyond random outcomes, to understand the true realities of risk, and to be comfortable with the probabilities of market movement that governs all market speculation.",
+    category:     'trading',
+    link:         'https://www.amazon.ca/Trading-Zone-Confidence-Discipline-Attitude/dp/0735201447/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1592612871&sr=1-1',
+    photo:        "Trading in the Zone.jpg"
+  },
+  {
+    title:        "The Alchemy of Finance",
+    description:  "New chapter by Soros on the secrets to his success along with a new Preface and Introduction. New Foreword by renowned economist Paul Volcker George Soros is unquestionably one of the most powerful and profitable investors in the world today. Dubbed by BusinessWeek as the Man who Moves Markets, Soros made a fortune competing with the British pound and remains active today in the global financial community. Now, in this special edition of the classic investment book, The Alchemy of Finance, Soros presents a theoretical and practical account of current financial trends and a new paradigm by which to understand the financial market today. This edition's expanded and revised Introduction details Soros's innovative investment practices along with his views of the world and world order. He also describes a new paradigm for the theory of reflexivity which underlies his unique investment strategies. Filled with expert advice and valuable business lessons, The Alchemy of Finance reveals the timeless principles of an investing legend. This special edition will feature a new chapter by Soros on the secrets of his success and a new Foreword by the Honorable Paul Volcker, former Chairman of the Federal Reserve. George Soros (New York, NY) is President of Soros Fund Management and Chief Investment Advisor to Quantum Fund N.V., a $12 billion international investment fund. Besides his numerous ventures in finance, Soros is also extremely active in the worlds of education, culture, and economic aid and development through his Open Society Fund and the Soros Foundation.",
+    category:     'trading',
+    link:         'https://www.amazon.ca/gp/product/0471445495/ref=ox_sc_saved_title_4?smid=A3DWYIK6Y9EEQB&psc=1',
+    photo:        "The Alchemy of Finance.jpg"
+  },
+  {
+    title:        "You Can Be a Stock Market Genius: Uncover the Secret Hiding Places of Stock Market Profits Paperback",
+    description:  "A comprehensive and practical guide to the stock market from a successful fund manager—filled with case studies, important background information, and all the tools you’ll need to become a stock market genius. Fund manager Joel Greenblatt has been beating the Dow (with returns of 50 percent a year) for more than a decade. And now, in this highly accessible guide, he’s going to show you how to do it, too. You’re about to discover investment opportunities that portfolio managers, business-school professors, and top investment experts regularly miss—uncharted areas where the individual investor has a huge advantage over the Wall Street wizards. ",
+    category:     'tadging',
+    link:         'https://www.amazon.ca/gp/product/0684840073/ref=ox_sc_saved_title_3?smid=A3DWYIK6Y9EEQB&psc=1',
+    photo:        "You Can Be a Stock Market Genius.jpg"
+  },
+  {
+    title:        "One Good Trade: Inside the Highly Competitive World of Proprietary Trading",
+    description:  "A proprietary trading firm consists of a group of professionals who trade the capital of the firm. Their income and livelihood is generated solely from their ability to take profits consistently out of the markets. The world of prop trading is mentally and emotionally challenging, but offers substantial rewards to the select few who can master this craft called trading. In One Good Trade: Inside the Highly Competitive World of Proprietary Trading, author Mike Bellafiore shares the principles and techniques that have enabled him to navigate the most challenging of markets over the past twelve years. He explains how he has imparted those techniques to an elite desk of traders at the proprietary trading firm he co-founded. In doing so, he lifts the veil on the inner workings of his firm, shedding light on the challenges of prop trading and insight on why traders succeed or fail. Becoming a better trader takes discipline, skill development, and statistically profitable trading strategies, and this book will show you how to develop all three.",
+    category:     'trading',
+    link:         'https://www.amazon.ca/gp/product/0470529407/ref=ox_sc_saved_title_4?smid=A3DWYIK6Y9EEQB&psc=1',
+    photo:        "One Good Trade.jpg"
+  },
+  {
+    title:        "Technical Analysis and Stock Market Profits",
+    description:  "Richard W. Schabacker's great work, Technical Analysis and Stock Market Profits, is a worthy addition to any technical analyst's personal library or any market library. His pioneering research represents one of the finest works ever produced on technical analysis, and this book remains an example of the highest order of analytical quality and incisive trading wisdom. Originally devised as a practical course for investors, it is as alive, vital and instructional today as the day it was written. It paved the way for Robert Edwards and John Magee's best-selling Technical Analysis of Stock Trends - a debt which is acknowledged in their foreword: 'Part One is based in large part on the pioneer researches and writings of the late Richard Schabacker.' Schabacker presents technical analysis as a totally organized subject and comprehensively lays out the various important patterns, formations, trends, support and resistance areas, and associated supporting technical detail. He presents factors that can be confidently relied on, and gives equal attention to the blemishes and weaknesses that can upset the best of analytical forecasts: Factors which investors would do well to absorb and apply when undertaking the fascinating game of price, time and volume analysis.",
+    category:     'trading',
+    link:         'https://www.amazon.ca/gp/product/1897597568/ref=ox_sc_saved_title_6?smid=A3DWYIK6Y9EEQB&psc=1',
+    photo:        "Technical Analysis and Stock Market Profits.jpg"
   }
+  # {
+  #   title:        Faker::Book.title,
+  #   description:  Faker::GreekPhilosophers.quote,
+  #   category:     category.sample,
+  #   link:         'amazon.ca',
+  #   photo:        "bookexample.jpg"
+  # }
   # {
   #   title:        Faker::Book.title,
   #   description:  Faker::GreekPhilosophers.quote,
