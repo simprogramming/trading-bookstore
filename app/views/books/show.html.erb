@@ -5,7 +5,7 @@
     <div class="book-image-show"><%= image_tag @book.photo %></div>
     <div class="container book-description">
       <h1><%= @book.title %></h1>
-      <p><%= link_to 'get it now', @book.link %></p>
+      <p><%= link_to 'get it now', @book.link,  target: :_blank %></p>
       <hr>
       <h4><strong>Summary</strong></h4>
       <p><%= @book.description %></p>
