@@ -274,28 +274,28 @@ books_attributes = [
     title:        "The Wisdom of Finance: Discovering Humanity in the World of Risk and Return Hardcover",
     description:  "read it",
     category:     'economy',
-    link:         'https://www.amazon.ca/gp/product/054491113X/ref=as_li_tl?ie=UTF8&tag=leivaprogramm-20&camp=15121&creative=330641&linkCode=as2&creativeASIN=054491113X&linkId=7f5cc8e4e7e8eedae976151a06f1b874',
+    link:         'http://www.amazon.ca/dp/1788160053/ref=nosim?tag=leivaprogramm-20',
     photo:        "The Wisdom of Finance.jpg"
   },
   {
     title:        "More Money Than God: Hedge Funds and the Making of a New Elite",
     description:  'Wealthy, powerful, and potentially dangerous, hedge fund moguls have become the It Boys of twenty-first- century capitalism. Beating the market was long thought to be impossible, but hedge funds cracked its mysteries and made fortunes in the process. Drawing on his unprecedented access to the industry, esteemed financial writer Sebastian Mallaby tells the inside story of the hedge funds, from their origins in the 1960s to their role in the financial crisis of 2007 to 2009.',
     category:     'economy',
-    link:         'https://www.amazon.ca/gp/product/B072BSMQLM/ref=as_li_tl?ie=UTF8&tag=leivaprogramm-20&camp=15121&creative=330641&linkCode=as2&creativeASIN=B072BSMQLM&linkId=5abce4f83e1a40ea4a58124e5dbbbb97',
+    link:         'http://www.amazon.ca/dp/0143119419/ref=nosim?tag=leivaprogramm-20',
     photo:        "More Money Than God.jpg"
   },
   {
     title:        "How the Economy Works: Confidence, Crashes and Self-Fulfilling Prophecies",
     description:  "Of all the economic bubbles that have been pricked, the editors of The Economist recently observed, few have burst more spectacularly than the reputation of economics itself. Indeed, the financial crisis that crested in 2008 destroyed the credibility of the economic thinking that had guided policymakers for a generation. But what will take its place? In How the Economy Works, one of our leading economists provides a jargon-free exploration of the current crisis, offering a powerful argument for how economics must change to get us out of it. Roger E. A. Farmer traces the swings between classical and Keynesian economics since the early twentieth century, gracefully explaining the elements of both theories. During the Great Depression, Keynes challenged the longstanding idea that an economy was a self-correcting mechanism; but his school gave way to a resurgence of classical economics in the 1970s-a rise that ended with the current crisis. Rather than simply allowing the pendulum to swing back, Farmer writes, we must synthesize the two. From classical economics, he takes the idea that a sound theory must explain how individuals behave-how our collective choices shape the economy. From Keynesian economics, he adopts the principle that markets do not always work well, that capitalism needs some guidance. The goal, he writes, is to correct the excesses of a free-market economy without stifling entrepreneurship and instituting central planning. Recent events have shown that we cannot afford to treat economics as an ivory-tower abstraction. It has a direct impact on our lives by guiding regulators and policymakers as they make decisions with far-reaching practical consequences. Written in clear, accessible language, How the Economy Works makes an argument that no one should ignore.",
     category:     'economy',
-    link:         'https://www.amazon.ca/gp/product/B01JXTGNL8/ref=as_li_tl?ie=UTF8&tag=leivaprogramm-20&camp=15121&creative=330641&linkCode=as2&creativeASIN=B01JXTGNL8&linkId=47681b027c7fee9ce7a0a1bd10c46095',
+    link:         'http://www.amazon.ca/dp/B017MYH7CK/ref=nosim?tag=leivaprogramm-20',
     photo:        "How the Economy Works.jpg"
   },
   {
     title:        'Capitalism and Freedom: Fortieth Edition',
     description:  "How can we benefit from the promise of government while avoiding the threat it poses to individual freedom? In this classic book, Milton Friedman provides the definitive statement of his immensely influential economic philosophy—one in which competitive capitalism serves as both a device for achieving economic freedom and a necessary condition for political freedom. The result is an accessible text that has sold well over half a million copies in English, has been translated into eighteen languages, and shows every sign of becoming more and more influential as time goes on.",
     category:     'economy',
-    link:         'https://www.amazon.ca/gp/product/0226264211/ref=as_li_tl?ie=UTF8&tag=leivaprogramm-20&camp=15121&creative=330641&linkCode=as2&creativeASIN=0226264211&linkId=c80f7cda9d84fa88ad7fe06a37f2bc6a',
+    link:         'http://www.amazon.ca/dp/1497644895/ref=nosim?tag=leivaprogramm-20',
     photo:        "Capitalism and Freedom.jpg"
   },
   {
@@ -493,7 +493,7 @@ books_attributes = [
     title:        "Intelligent Investor: The Classic Text on Value Investing",
     description:  "The greatest investment advisor of the twentieth century, Benjamin Graham taught and inspired people worldwide. Graham's philosophy of value investing -- which shields investors from substantial error and teaches them to develop long-term strategies -- has made The Intelligent Investor the stock market bible ever since its original publication in 1949. Over the years, market developments have proven the wisdom of Graham's strategies. While preserving the integrity of Graham's original text, this revised edition includes updated commentary by noted financial journalist Jason Zweig, whose perspective incorporates the realities of today's market, draws parallels between Graham's examples and today's financial headlines, and gives readers a more thorough understanding of how to apply Graham's principles. Vital and indispensable, this HarperBusiness Essentials edition of The Intelligent Investor is the most important book you will ever read on how to reach your financial goals.",
     category:     'investing',
-    link:         'https://www.amazon.ca/gp/product/0060752610/ref=as_li_tl?ie=UTF8&tag=leivaprogramm-20&camp=15121&creative=330641&linkCode=as2&creativeASIN=0060752610&linkId=8ae3795d0e0a8e9228603a1e662bdd25',
+    link:         'http://www.amazon.ca/dp/9780060555665/ref=nosim?tag=leivaprogramm-20',
     photo:        "Intelligent Investor.jpg"
   },
   {
@@ -599,7 +599,7 @@ books_attributes = [
     title:        'Market Wizards',
     description:  "How do the world's most successful traders amass tens, hundreds of millions of dollars a year? Are they masters of an occult knowledge, lucky winners in a random market lottery, natural-born virtuosi—Mozarts of the markets? In search of an answer, bestselling author Jack D. Schwager interviewed dozens of top traders across most financial markets. While their responses differed in the details, all of them could be boiled down to the same essential formula: solid methodology + proper mental attitude = trading success. In Market Wizards Schwager lets you hear, in their own words, what those super-traders had to say about their unprecedented successes, and he distils their responses down into a set of guiding principles you can use to become a trading star in your own right. ",
     category:     'trading',
-    link:         'https://www.amazon.ca/gp/product/B0716VSJC6/ref=as_li_tl?ie=UTF8&tag=leivaprogramm-20&camp=15121&creative=330641&linkCode=as2&creativeASIN=B0716VSJC6&linkId=5788f4a915a0937d802702bba2aa221f',
+    link:         'http://www.amazon.ca/dp/1118273052/ref=nosim?tag=leivaprogramm-20',
     photo:        "Market Wizards.jpg"
   },
   {
