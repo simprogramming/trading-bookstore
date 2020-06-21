@@ -1,6 +1,7 @@
-<h2>History Books</h2>
-<ul>
-  <% @history_books.each do |book| %>
-    <li><%= book.title %></li>
-  <% end %>
-</ul>
+<div class="background-color">
+  <div class="container video-title text-center"><strong>Economic history explained</strong></div>
+  <div class="container"> <%= link_to "back to list", books_path %></div>
+  <div class="container text-center">
+  <iframe width="1120" height="615" src="https://www.youtube.com/embed/REm0aqPvRb8" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>

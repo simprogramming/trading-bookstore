@@ -1,8 +1,33 @@
 <div class="banner">
   <div class="banner-content">
-    <h2>World Class Library For Trading &  Personal Wealth Management</h2>
-    <h4>Top books of each category</h4>
-    <h6>get a financial elite mind</h6>
+    <h2>World Class Library </br> For Trading </br> &  </br> Personal Wealth Management</h2>
+  </div>
+</div>
+
+<h4 class="books-category"><strong>Trading</strong></h4>
+<div class="scrollmenu">
+  <div class="book-card">
+    <% @books.where(category: 'trading').each do |book| %>
+      <%=  link_to (image_tag book.photo)   , book_path(book) %>
+    <% end %>
+  </div>
+</div>
+
+<h4 class="books-category"><strong>Investing</strong></h4>
+<div class="scrollmenu">
+  <div class="book-card">
+    <% @books.where(category: 'investing').each do |book| %>
+      <%=  link_to (image_tag book.photo)   , book_path(book) %>
+    <% end %>
+  </div>
+</div>
+
+<h4 class="books-category"><strong>Business</strong></h4>
+<div class="scrollmenu">
+  <div class="book-card">
+    <% @books.where(category: 'business').each do |book| %>
+      <%=  link_to (image_tag book.photo)   , book_path(book) %>
+    <% end %>
   </div>
 </div>
 
@@ -28,33 +53,6 @@
 <div class="scrollmenu">
   <div class="book-card">
     <% @books.where(category: 'economy').each do |book| %>
-      <%=  link_to (image_tag book.photo)   , book_path(book) %>
-    <% end %>
-  </div>
-</div>
-
-<h4 class="books-category"><strong>Business</strong></h4>
-<div class="scrollmenu">
-  <div class="book-card">
-    <% @books.where(category: 'business').each do |book| %>
-      <%=  link_to (image_tag book.photo)   , book_path(book) %>
-    <% end %>
-  </div>
-</div>
-
-<h4 class="books-category"><strong>Investing</strong></h4>
-<div class="scrollmenu">
-  <div class="book-card">
-    <% @books.where(category: 'investing').each do |book| %>
-      <%=  link_to (image_tag book.photo)   , book_path(book) %>
-    <% end %>
-  </div>
-</div>
-
-<h4 class="books-category"><strong>Trading</strong></h4>
-<div class="scrollmenu">
-  <div class="book-card">
-    <% @books.where(category: 'trading').each do |book| %>
       <%=  link_to (image_tag book.photo)   , book_path(book) %>
     <% end %>
   </div>

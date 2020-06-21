@@ -8,7 +8,7 @@ class BooksController < ApplicationController
   end
 
   def sociology
-    @sociology_books = Book.where(category: 'sociology')
+    # @sociology_books = Book.where(category: 'sociology')
   end
 
   def history
