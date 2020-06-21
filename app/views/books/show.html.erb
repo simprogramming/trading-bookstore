@@ -3,6 +3,7 @@
   <div class="container">
     <div class="container center book-image-show"><%= image_tag @book.photo %></div>
     <hr>
+
     <div class="container text-center book-description">
       <h3><%= @book.title %></h3>
       <div type="button" class="btn btn-outline-success  btn-sm pimp-btn"><%= link_to 'Get it now!', @book.link,  target: :_blank %></div>
@@ -10,6 +11,7 @@
       <h4><strong>Summary</strong></h4>
       <p><%= @book.description %></p>
     </div>
+
   </div>
-<div type="button" class="btn btn-outline-secondary pimp-btn"> <%= link_to "back", books_path %></div>
+  <div type="button" class="btn btn-outline-secondary pimp-btn"> <%= link_to "back", books_path %></div>
 </div>
