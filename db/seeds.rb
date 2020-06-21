@@ -160,7 +160,7 @@ books_attributes = [
     title:        "Against the Gods: The Remarkable Story of Risk",
     description:  "In this unique exploration of the role of risk in our society, Peter Bernstein argues that the notion of bringing risk under control is one of the central ideas that distinguishes modern times from the distant past. Against the Gods chronicles the remarkable intellectual adventure that liberated humanity from oracles and soothsayers by means of the powerful tools of risk management that are available to us today.",
     category:     'history',
-    link:         'https://www.amazon.ca/gp/product/0470287586/ref=as_li_tl?ie=UTF8&tag=leivaprogramm-20&camp=15121&creative=330641&linkCode=as2&creativeASIN=0470287586&linkId=67b26170cd9f101c92b99851e6288ee9',
+    link:         'http://www.amazon.ca/dp/0471295639/ref=nosim?tag=leivaprogramm-20',
     photo:        "Against the Gods.jpg"
   },
   {
